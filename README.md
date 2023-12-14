@@ -2,7 +2,7 @@
 
 本仓库为北京航空航天大学2023秋通识课程MAPA期末作业，依照*Apache 2.0*协议部分引用了[MoveNet Demo](https://github.com/tensorflow/docs/blob/master/site/en/hub/tutorials/movenet.ipynb)代码。
 
-![Still Shape Form](./Still Shape Form.png)
+![Still Shape Form](Still Shape Form.png)
 
 ## 环境配置
 
