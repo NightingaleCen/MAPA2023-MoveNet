@@ -1,0 +1,10 @@
+# data stuff
+pose_images/*.jpg
+pose_images/labels.json
+
+# cache stuff
+__pycache__
+.DS_Store
+
+spyder.py
+label_GUI.py
